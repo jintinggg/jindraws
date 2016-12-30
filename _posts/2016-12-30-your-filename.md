@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Learning to draw facial 3/4 view and sideview
 
