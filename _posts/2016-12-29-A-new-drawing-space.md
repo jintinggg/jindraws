@@ -3,7 +3,6 @@ layout: post
 title:  "A new drawing space"
 date:   2016-12-29 13:05:14 +0800
 ---
-## A new drawing space
 
 ![jiinome-2016Dec29-2e.png]({{site.baseurl}}/img/jiinome-2016Dec29-2e.png)
 
