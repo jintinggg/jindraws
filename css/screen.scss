@@ -29,8 +29,8 @@ $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 182px;
-$banner-height: 503px;
+$banner-width: 492px;
+$banner-height: 511px;
 $banner-margin: 50px;
 $banner-border-width: 3px;
 $banner-border-offset: 2px;
@@ -38,7 +38,7 @@ $banner-border-offset: 2px;
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/jindraws-dp';
+$img-banner: '{{ site.baseurl }}/img/jindraws-dp2';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 
