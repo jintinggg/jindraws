@@ -1,10 +1,10 @@
 #banner {
-    @include retina-background-image($img-jindraws-dp2);
+    @include retina-background-image($img-banner);
     background-color: #8e8387;
     outline: none;
     display: block;
     width: 100%;
-    height: $jindraws-dp2-height; /* This is where I tweak with how banner looks on phone screen */
+    height: $banner-height; /* This is where I tweak with how banner looks on phone screen */
     margin: 0 auto 35px;
     position: relative; /* To ensure the bottom border is positioned correctly */
 
