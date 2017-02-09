@@ -9,6 +9,14 @@ RGB Color: Vivid
 
 And so I surprised Seb!
 
+![_DSC2205 (e).png]({{site.baseurl}}/img/_DSC2205%20(e).png)
+
+![_DSC2208 (e).png]({{site.baseurl}}/img/_DSC2208%20(e).png)
+
+![_DSC2211 (e).png]({{site.baseurl}}/img/_DSC2211%20(e).png)
 
 This is how it looks like on screen:
 
+![Screen Shot 2017-02-09 at 2.57.13 pm.png]({{site.baseurl}}/img/Screen%20Shot%202017-02-09%20at%202.57.13%20pm.png)
+
+![Screen Shot 2017-02-09 at 2.58.16 pm.png]({{site.baseurl}}/img/Screen%20Shot%202017-02-09%20at%202.58.16%20pm.png)
