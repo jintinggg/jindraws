@@ -3,8 +3,8 @@
     background-color: #8e8387;
     outline: none;
     display: block;
-    width: 100%;
-    height: $banner-height; /* This is where I tweak with how banner looks on phone screen */
+    width: $banner-width;
+    height: $banner-height; /* This is where I tweak with how banner looks on com n phone screen */
     margin: 0 auto 35px;
     position: relative; /* To ensure the bottom border is positioned correctly */
 
